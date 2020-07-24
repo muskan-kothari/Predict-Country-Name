@@ -1,0 +1,1 @@
+This machine learning model uses vector embeddings to predict analogies between words, and compare the word embeddings using Cosine similarity and eucledian distance metric. Using this, it predicts the country name given its capital.It also implaments PCA to reduce 300-dimensional vector to 2 dimensions by computing the eigen values.
